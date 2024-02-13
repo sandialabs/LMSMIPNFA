@@ -10,29 +10,26 @@ Data and Analysis Code for 'Comparing multiple statistical methods for inverse p
 Published: 21 March 2018| Version 1 | DOI: 10.17632/mf95d3swv5.1
 Contributors: John Lewis, Adah Zhang, Christine Anderson-Cook
 
-Description
+**Description**
+1. R script and data to reproduce some of the results in 'Comparing multiple statistical methods for inverse prediction in nuclear forensics applications'
 
-R script and data to reproduce some of the results in 'Comparing multiple statistical methods for inverse prediction in nuclear forensics applications'
-Download All 9.87 KB
+**Files**
+1. analysis_code_all.R
+2. PuO2.csv
 
-Files
-analysis_code_all.R
-PuO2.csv
-
-Steps to reproduce
+**Steps to reproduce**
 1. Ensure 'PuO2.csv' is in the current working directory
 2. Ensure libraries called via library() are installed. 
 3. Run the script 
 
 The script will take several minutes to run depending on the system.
 
-Related Identifiers*
-This dataset is supplement to 10.1016/j.chemolab.2017.10.010 http://doi.org/10.1016/j.chemolab.2017.10.010
-
+**Related Identifiers***
+1. This dataset is supplement to 10.1016/j.chemolab.2017.10.010 http://doi.org/10.1016/j.chemolab.2017.10.010
 *provided by DataCite https://datacite.org/
 
-License
-CC BY 4.0 licence description
+**License**
+1. CC BY 4.0 licence description
 The files associated with this dataset are licensed under a Creative Commons Attribution 4.0 International licence.
 
 What does this mean?
