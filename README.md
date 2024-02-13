@@ -1,4 +1,4 @@
-# LMSMIPNFA
+# Data and Analysis Code for 'Comparing multiple statistical methods for inverse prediction in nuclear forensics applications'
 
 https://data.mendeley.com/datasets/mf95d3swv5/1
 
